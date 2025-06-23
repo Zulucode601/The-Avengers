@@ -1,3 +1,3 @@
-function myFunction(){
-document.getElementById("demo").innerHTML='THE AVENGERS!!!'
+function myFunction() {
+  document.getElementById("demo").innerText = "Thanks for checking out the Avengers!";
 }
